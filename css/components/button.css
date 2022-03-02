@@ -1,0 +1,10 @@
+ .btn-ree {
+   background-color: lightgreen;
+   padding: 10px 20px;
+   border-radius: 4px;
+}
+.btn-ree :hover {
+   background-color: lightgreen;
+   color: white;
+   font-weight: bold;
+}
